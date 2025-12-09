@@ -165,6 +165,7 @@ SUPPORTED_PLATFORMS_UI: Final = {
     Platform.DATE,
     Platform.DATETIME,
     Platform.LIGHT,
+    Platform.SENSOR,
     Platform.SWITCH,
     Platform.TIME,
 }
